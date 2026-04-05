@@ -1,8 +1,5 @@
 <div align="center">
 
-**EN | [PT-BR](#pt-br)**  
-**[EN](#en) | PT-BR**
-
 # Ismael Álvaro
 ### Embedded Systems • Firmware • Data Acquisition • FPGA/Verilog • Automotive/Telemetry
 
@@ -22,6 +19,7 @@ I build end-to-end systems: from digital design (FPGA/Verilog) and firmware (STM
 ---
 
 ## EN
+**EN | [PT-BR](#pt-br)**  
 
 ## 🔥 GitHub Stats
 <div align="center">
@@ -76,6 +74,7 @@ Repo: https://github.com/ismael-alvaro/Lotus-Lounge
 ---
 
 ## PT-BR
+**[EN](#en) | PT-BR**
 
 ## 🔥 Estatísticas do GitHub
 <div align="center">
