@@ -186,7 +186,7 @@ Environment:
 
 <div align="center">
   <!-- Activity Graph: last 31 days -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ismael-alvaro&theme=dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20(Last%2031%20Days)" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ismael-alvaro&theme=nightowl&hide_border=true&area=true&custom_title=Contribution%20Activity%20(Last%2031%20Days)" width="100%" />
   <br/><br/>
 
   <!-- Reliable replacements for unstable widgets -->
