@@ -5,7 +5,7 @@
 
 <br/>
 
-<!-- Matrix Style Typing Effect (Aumentado height para 180 para garantir 3 linhas sem cortes) -->
+<!-- Matrix Style Typing Effect -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=00FFF7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=180&lines=%E2%9A%A1+Embedded+Systems+Specialist+%7C+C%2FC%2B%2B+%7C+Python+%E2%9A%A1;%F0%9F%94%A7+FPGA+%7C+Verilog+%7C+SystemVerilog+%7C+Digital+Design+%F0%9F%94%A7;%F0%9F%93%8A+HR+Manager+%7C+Team+Leadership+%7C+Quality+Specialist+%F0%9F%93%8A" alt="Typing SVG" />
 </a>
@@ -45,7 +45,7 @@
 
 <br/>
 
-<!-- Core Engine & Logic (Centralizado Horizontalmente) -->
+<!-- Core Engine & Logic -->
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=FF0080&center=true&vCenter=true&width=600&lines=%E2%9A%99%EF%B8%8F+CORE+ENGINE+%26+LOGIC" alt="Core Engine" />
 </div>
@@ -103,7 +103,7 @@ Environment:
 
 <br/>
 
-<!-- Detailed Tech Stack (Apenas tecnologias mencionadas, 100% Ícones) -->
+<!-- Detailed Tech Stack -->
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=9D00FF&center=true&vCenter=true&width=600&lines=%F0%9F%9B%A0%EF%B8%8F+TECHNICAL+STACK" alt="Tech Stack" />
 </div>
@@ -113,26 +113,48 @@ Environment:
 <div align="center">
 
 ### **Languages & Firmware**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" title="C" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" title="C++" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" title="Python" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="45" title="Arduino" />&nbsp;
-<img src="https://img.icons8.com/ios-filled/50/000000/chip.png" width="45" title="STM32 / ESP32" />&nbsp;
-<img src="https://img.icons8.com/ios-filled/50/000000/processor.png" width="45" title="PlatformIO" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white" />
+<img src="https://img.shields.io/badge/RTOS-6A1B9A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bare%20Metal-455A64?style=for-the-badge" />
+<img src="https://img.shields.io/badge/State%20Machines-00897B?style=for-the-badge" />
 
-### **Hardware & Digital Design**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kicad/kicad-original.svg" width="45" title="KiCad" />&nbsp;
-<img src="https://img.icons8.com/ios-filled/50/000000/integrated-circuit.png" width="45" title="Verilog / SystemVerilog" />&nbsp;
-<img src="https://img.icons8.com/ios-filled/50/000000/motherboard.png" width="45" title="Quartus Prime / Cyclone V" />&nbsp;
-<img src="https://img.icons8.com/ios-filled/50/000000/circuit.png" width="45" title="ModelSim-Altera" />
+### **Digital Design & Hardware**
+<img src="https://img.shields.io/badge/Verilog-8E24AA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SystemVerilog-C2185B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FPGA-3949AB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white" />
+<img src="https://img.shields.io/badge/Quartus%20Prime-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+<img src="https://img.shields.io/badge/Cyclone%20V-283593?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ModelSim--Altera-5D4037?style=for-the-badge" />
 
-### **Data, Comms & Tools**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="45" title="MATLAB" />&nbsp;
-<img src="https://img.icons8.com/ios-filled/50/000000/gears.png" width="45" title="Ansys" />&nbsp;
-<img src="https://img.icons8.com/ios-filled/50/000000/bluetooth.png" width="45" title="Bluetooth" />&nbsp;
-<img src="https://img.icons8.com/ios-filled/50/000000/network-cable.png" width="45" title="CAN Bus" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" title="VSCode" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git" />
+### **Communication, Automotive & IoT**
+<img src="https://img.shields.io/badge/CAN%20Bus-006064?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Telemetry-00838F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OBD--II-455A64?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" />
+<img src="https://img.shields.io/badge/GPRS-546E7A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge" />
+<img src="https://img.shields.io/badge/UART-5E35B1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SPI-3949AB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/I2C-1E88E5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/USB-546E7A?style=for-the-badge&logo=usb&logoColor=white" />
+<img src="https://img.shields.io/badge/SD%20Logging-2E7D32?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Flash%20Config-6D4C41?style=for-the-badge" />
+
+### **Analysis, Workflow & Tooling**
+<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ansys-FFB300?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Signal%20Processing-7B1FA2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Analytics-00897B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 </div>
 
@@ -158,7 +180,7 @@ Environment:
 
 <br/>
 
-<!-- GitHub Analytics & Activity (Mensal e Corrigido) -->
+<!-- GitHub Analytics & Activity -->
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=%F0%9F%93%8A+GITHUB+ANALYTICS" alt="Analytics" />
 </div>
@@ -166,21 +188,22 @@ Environment:
 <br/>
 
 <div align="center">
-  <!-- Activity Graph (Mensal) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ismael-alvaro&theme=tokyonight&hide_border=true&area=true&custom_title=Monthly%20Contribution%20Activity" width="100%" />
+  <!-- Activity Graph: last 31 days -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ismael-alvaro&theme=tokyonight&hide_border=true&area=true&custom_title=Contribution%20Activity%20(Last%2031%20Days)" width="100%" />
   <br/><br/>
-  <!-- Stats Cards (URLs simplificadas para evitar erros de renderização) -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ismael-alvaro&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismael-alvaro&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" />
+
+  <!-- Reliable replacements for unstable widgets -->
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ismael-alvaro&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ismael-alvaro&theme=tokyonight" />
   <br/>
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ismael-alvaro&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ismael-alvaro&theme=tokyonight&no-bg=true&no-frame=true&column=7" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ismael-alvaro&theme=tokyonight" />
 </div>
 
 <br/>
 
-<!-- Footer (Sincronizado com o Header) -->
+<!-- Footer -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <p><i>"The best way to predict the future is to invent it."</i></p>
