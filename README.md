@@ -83,7 +83,7 @@ Protocols:
 Leadership:
   Role: [HR Manager, Strategic Advisor]
   Focus: [Team Management, Org Planning]
-  Quality: [Specialist, Process Optimization]
+  Quality: [Process Optimization, Team Development]
   Culture: [Development, Mentorship]
 ```
 
