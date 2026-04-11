@@ -45,9 +45,9 @@
 
 <br/>
 
-<!-- Core Engine & Logic -->
+<!-- Core Skills -->
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=FF0080&center=true&vCenter=true&width=600&lines=%E2%9A%99%EF%B8%8F+CORE+ENGINE+%26+LOGIC" alt="Core Engine" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=FF0080&center=true&vCenter=true&width=600&lines=%E2%9A%99%EF%B8%8F+CORE+SKILLS" alt="Core Skills" />
 </div>
 
 <br/>
