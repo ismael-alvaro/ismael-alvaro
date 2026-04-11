@@ -55,7 +55,7 @@
 <div align="center">
 <table style="margin-left: auto; margin-right: auto;">
 <tr>
-<td width="400" valign="top" align="center">
+<td width="400" valign="top" align="left">
 
 ### **💻 Core Processing**
 ```yaml
@@ -63,20 +63,20 @@ System:
   Firmware: [STM32, ESP32, Arduino, PlatformIO]
   Digital_Design: [Verilog, SystemVerilog, FPGA]
   Languages: [C, C++, Python]
-  Logic: [State Machines, RTOS, Bare Metal]
+  Logic: [State Machines, Event-Driven Design, Interrupt Handling]
 ```
 
 ### **📡 Communication Bus**
 ```yaml
 Protocols:
-  Automotive: [CAN Bus, Telemetry, OBD-II]
+  Automotive: [CAN Bus, Telemetry, Data Acquisition]
   Wireless: [Bluetooth, GPRS, MQTT]
   Interface: [UART, SPI, I2C, USB]
   Storage: [SD Logging, Flash Config]
 ```
 
 </td>
-<td width="400" valign="top" align="center">
+<td width="400" valign="top" align="left">
 
 ### **👥 Management Layer**
 ```yaml
