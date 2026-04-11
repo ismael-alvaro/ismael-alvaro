@@ -120,8 +120,6 @@ Environment:
 <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white" />
-<img src="https://img.shields.io/badge/RTOS-6A1B9A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Bare%20Metal-455A64?style=for-the-badge" />
 <img src="https://img.shields.io/badge/State%20Machines-00897B?style=for-the-badge" />
 
 ### **Digital Design & Hardware**
@@ -136,7 +134,6 @@ Environment:
 ### **Communication, Automotive & IoT**
 <img src="https://img.shields.io/badge/CAN%20Bus-006064?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Telemetry-00838F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OBD--II-455A64?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" />
 <img src="https://img.shields.io/badge/GPRS-546E7A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge" />
