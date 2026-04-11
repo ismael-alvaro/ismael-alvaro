@@ -7,7 +7,7 @@
 
 <!-- Matrix Style Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=00FFF7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=180&lines=%E2%9A%A1+Embedded+Systems+Specialist+%7C+C%2FC%2B%2B+%7C+Python+%E2%9A%A1;%F0%9F%94%A7+FPGA+%7C+Verilog+%7C+SystemVerilog+%7C+Digital+Design+%F0%9F%94%A7;%F0%9F%93%8A+HR+Manager+%7C+Team+Leadership+%7C+Quality+Specialist+%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=00FFF7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=180&lines=%E2%9A%A1+Embedded+Systems+Developer+%7C+C%2FC%2B%2B+%7C+Python+%E2%9A%A1;%F0%9F%94%A7+FPGA+%7C+Verilog+%7C+SystemVerilog+%7C+Digital+Design+%F0%9F%94%A7;%F0%9F%93%8A+HR+Manager+%7C+Team+Leadership+%7C+Process+Optimization+%F0%9F%93%8A" alt="Typing SVG" />
 </a>
 
 <br/><br/>
