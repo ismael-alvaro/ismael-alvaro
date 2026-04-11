@@ -1,22 +1,21 @@
 <div align="center">
 
-<!-- Hero Header with Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6,11&height=350&section=header&text=ISMAEL%20ALVARO&fontSize=100&fontAlignY=40&animation=twinkling&fontColor=gradient&desc=🚗%20Embedded%20Systems%20%7C%20⚡%20Firmware%20%26%20FPGA%20%7C%20🎯%20HR%20%26%20Team%20Management&descAlignY=62&descSize=20" width="100%" />
+<!-- Hero Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6,11&height=300&section=header&text=ISMAEL%20ALVARO&fontSize=90&fontAlignY=40&animation=twinkling&fontColor=gradient&desc=⚡%20Embedded%20Systems%20Engineer%20%7C%20🏎️%20Mangue%20Baja%20Specialist%20%7C%20👥%20HR%20Manager&descAlignY=62&descSize=20" width="100%" />
+
+<br/>
 
 <!-- Matrix Style Typing Effect -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=00FFF7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=120&lines=%E2%9A%A1+Embedded+Systems+Specialist+%7C+C%2FC%2B%2B+%7C+Python+%E2%9A%A1;%F0%9F%94%A7+FPGA+%7C+Verilog+%7C+SystemVerilog+%7C+Digital+Design+%F0%9F%94%A7;%F0%9F%93%A1+Telemetry+%7C+CAN+%7C+LoRa+%7C+Bluetooth+%7C+MQTT+%F0%9F%93%A1;%F0%9F%93%8A+HR+Manager+%7C+Team+Leadership+%7C+Org+Planning+%F0%9F%93%8A;%F0%9F%8E%AF+Quality+Specialist+%7C+Automotive+Systems+%7C+Mangue+Baja+%F0%9F%8E%AF" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Social & GitHub Badges (Larissa Kich Style) -->
+<!-- Social & GitHub Badges -->
 <p align="center">
     <a href="https://www.linkedin.com/in/ismael-alvaro/">
         <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
-    </a>
-    <a href="https://github.com/ismael-alvaro?tab=repositories&sort=stargazers">
-        <img alt="Total Stars" src="https://custom-icon-badges.demolab.com/github/stars/ismael-alvaro?color=55960c&style=for-the-badge&labelColor=000000&logo=star&label=STARS" />
     </a>
     <a href="https://github.com/ismael-alvaro?tab=followers">
         <img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/ismael-alvaro?color=236ad3&labelColor=000000&style=for-the-badge&logo=github&label=FOLLOWERS" />
@@ -33,9 +32,22 @@
 
 <br/>
 
-<!-- About Section -->
+<!-- Introduction Section -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&pause=1000&color=FF0080&center=true&vCenter=true&width=600&lines=%F0%9F%92%A1+WHO+I+AM" alt="Who I Am" />
+    <img src="https://media.giphy.com/media/ROyijmazFKRc4/giphy.gif" width="150" align="right" />
+    <p align="left">
+        I build end-to-end robust systems: from silicon-level digital design (FPGA/Verilog) and high-performance firmware (STM32/ESP32) to desktop analytics tooling. My work is focused on telemetry, datalogging, and reliable embedded communication in high-stakes automotive environments.
+    </p>
+    <p align="left">
+        As a specialist and HR manager at <b>Mangue Baja SAE</b>, I bridge the gap between technical excellence and human-centric leadership, ensuring both system reliability and team growth.
+    </p>
+</div>
+
+<br/>
+
+<!-- System Architecture (Profile Overview) -->
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=FF0080&center=true&vCenter=true&width=600&lines=%F0%9F%9B%A1%EF%B8%8F+SYSTEM+ARCHITECTURE" alt="System Architecture" />
 </div>
 
 <br/>
@@ -44,63 +56,43 @@
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50" align="left">
-
-### **🎯 Engineering Identity**
-
-```javascript
-const ismael = {
-  role: "Embedded Systems Student & Specialist",
-  team: "🏎️ Mangue Baja SAE",
-  focus: "End-to-end robust systems",
-  
-  expertise: {
-    hardware: "⚡ FPGA, Verilog, Digital Logic",
-    firmware: "💻 STM32, ESP32, Mbed OS", 
-    telemetry: "📡 CAN, LoRa, Bluetooth, MQTT",
-    management: "👥 HR, Team Leadership, Org Planning"
-  },
-  
-  mission: "Building reliable systems from silicon to desktop",
-  motto: "Technical Excellence | Human-Centric Leadership"
-};
+### **💻 Core Processing**
+```yaml
+System:
+  Firmware: [STM32, ESP32, Arduino, Mbed OS]
+  Digital_Design: [Verilog, SystemVerilog, FPGA]
+  Languages: [C, C++, Python, Assembly]
+  Logic: [State Machines, RTOS, Bare Metal]
 ```
 
-<br/>
-
-**🏆 Mangue Baja Roles:** Specialist in Electronics & Quality | HR Manager. I provide expert guidance on complex technical issues and lead organizational development.
+### **📡 Communication Bus**
+```yaml
+Protocols:
+  Automotive: [CAN Bus, Telemetry, OBD-II]
+  Wireless: [LoRa, Bluetooth, GPRS, MQTT]
+  Interface: [UART, SPI, I2C, USB]
+  Storage: [SD Logging, Flash Config]
+```
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" align="left">
-
-### **⚡ Technical Arsenal**
-
-<br/>
-
-**🔬 Firmware & Embedded**
-```diff
-+ STM32 & ESP32 (C/C++)
-+ Mbed OS & Bare Metal
-+ State Machines & Drivers
-+ SD Logging & Real-time Constraints
+### **👥 Management Layer**
+```yaml
+Leadership:
+  Role: [HR Manager, Strategic Advisor]
+  Focus: [Team Management, Org Planning]
+  Quality: [Specialist, Process Optimization]
+  Culture: [Development, Mentorship]
 ```
 
-**📡 Comms & Telemetry**
-```diff
-+ CAN Bus & LoRa Communication
-+ Bluetooth & GPRS/MQTT
-+ Data Acquisition Systems
-+ Desktop Analytics Tooling (Python)
-```
-
-**💻 Digital Design & FPGA**
-```diff
-+ Verilog & SystemVerilog
-+ CPU & ALU Architecture
-+ Cyclone V & Quartus Prime
-+ Simulation-friendly Modules
+### **🛠️ Hardware & Tools**
+```yaml
+Environment:
+  Design: [KiCad, Quartus Prime, Cyclone V]
+  Analysis: [Matlab, Ansys, ModelSim]
+  Workflow: [VSCode, PlatformIO, Git, Linux]
+  Data: [Signal Processing, Analytics]
 ```
 
 </td>
@@ -109,31 +101,46 @@ const ismael = {
 
 <br/>
 
-<!-- Tech Stack Icons (Larissa Kich Style) -->
+<!-- Detailed Tech Stack -->
 <div align="center">
-    <h3>🤖 Languages & Technologies</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" title="C" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40" title="Arduino" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40" title="MATLAB" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" title="VSCode" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" title="Linux" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=9D00FF&center=true&vCenter=true&width=600&lines=%F0%9F%9B%A0%EF%B8%8F+TECHNICAL+STACK" alt="Tech Stack" />
 </div>
 
 <br/>
 
-<!-- Animated Separator -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+<div align="center">
+
+### **Embedded & Firmware**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" title="C" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" title="C++" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="45" title="Arduino" />&nbsp;
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" height="35" />&nbsp;
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="35" />&nbsp;
+<img src="https://img.shields.io/badge/Mbed_OS-000000?style=for-the-badge&logo=arm&logoColor=white" height="35" />
+
+### **Hardware & Digital Design**
+<img src="https://img.shields.io/badge/Verilog-F1F1F1?style=for-the-badge&logo=verilog&logoColor=black" height="35" />&nbsp;
+<img src="https://img.shields.io/badge/SystemVerilog-4B0082?style=for-the-badge&logo=intel&logoColor=white" height="35" />&nbsp;
+<img src="https://img.shields.io/badge/FPGA-Cyclone_V-0071C5?style=for-the-badge&logo=intel&logoColor=white" height="35" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kicad/kicad-original.svg" width="45" title="KiCad" />&nbsp;
+<img src="https://img.shields.io/badge/Quartus_Prime-0071C5?style=for-the-badge&logo=intel&logoColor=white" height="35" />
+
+### **Data, Comms & Tools**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" title="Python" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="45" title="MATLAB" />&nbsp;
+<img src="https://img.shields.io/badge/CAN_Bus-FF3300?style=for-the-badge&logo=databricks&logoColor=white" height="35" />&nbsp;
+<img src="https://img.shields.io/badge/LoRa-00EEFF?style=for-the-badge&logo=semtech&logoColor=black" height="35" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" title="VSCode" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" title="Linux" />
+
+</div>
 
 <br/>
 
-<!-- Featured Projects Section -->
+<!-- Featured Projects -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&pause=1000&color=00FFF7&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+FEATURED+PROJECTS" alt="Featured Projects" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+FEATURED+PROJECTS" alt="Projects" />
 </div>
 
 <br/>
@@ -151,21 +158,20 @@ const ismael = {
 
 <br/>
 
-<!-- GitHub Stats Section (Anurag Hazra Style) -->
+<!-- GitHub Analytics -->
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&pause=1000&color=9D00FF&center=true&vCenter=true&width=900&lines=%F0%9F%93%8A+GITHUB+ANALYTICS" alt="Stats" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=%F0%9F%93%8A+GITHUB+ANALYTICS" alt="Analytics" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismael-alvaro&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismael-alvaro&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ismael-alvaro&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&custom_title=System%20Performance" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismael-alvaro&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&langs_count=8" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=ismael-alvaro&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
-  <!-- GRS Trophy (Optional but professional) -->
+  <img width="60%" src="https://streak-stats.demolab.com?user=ismael-alvaro&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ismael-alvaro&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ismael-alvaro&theme=tokyonight&no-bg=true&no-frame=true&column=7" />
 </div>
 
 <br/>
@@ -173,6 +179,6 @@ const ismael = {
 <!-- Footer -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <p><i>"I build end-to-end systems: from silicon to desktop analytics."</i></p>
+  <p><i>"The best way to predict the future is to invent it."</i></p>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=footer" width="100%" />
 </div>
