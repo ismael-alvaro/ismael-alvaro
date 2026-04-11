@@ -187,12 +187,12 @@ Environment:
 <div align="center">
 
   <!-- Reliable replacements for unstable widgets -->
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ismael-alvaro&theme=github_dark" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ismael-alvaro&theme=github_dark" />
-  <br/>
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ismael-alvaro&theme=github_dark&hide_border=true" />
   <br/>
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ismael-alvaro&theme=github_dark" />
+  <br/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ismael-alvaro&theme=github_dark" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ismael-alvaro&theme=github_dark" />
 </div>
 
 <br/>
