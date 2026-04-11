@@ -5,9 +5,9 @@
 
 <br/>
 
-<!-- Matrix Style Typing Effect (Reestruturado para 3 linhas com altura de container aumentada para evitar cortes) -->
+<!-- Matrix Style Typing Effect (Aumentado height para 180 para garantir 3 linhas sem cortes) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=00FFF7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=150&lines=%E2%9A%A1+Embedded+Systems+Specialist+%7C+C%2FC%2B%2B+%7C+Python+%E2%9A%A1;%F0%9F%94%A7+FPGA+%7C+Verilog+%7C+SystemVerilog+%7C+Digital+Design+%F0%9F%94%A7;%F0%9F%93%8A+HR+Manager+%7C+Team+Leadership+%7C+Quality+Specialist+%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=00FFF7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=180&lines=%E2%9A%A1+Embedded+Systems+Specialist+%7C+C%2FC%2B%2B+%7C+Python+%E2%9A%A1;%F0%9F%94%A7+FPGA+%7C+Verilog+%7C+SystemVerilog+%7C+Digital+Design+%F0%9F%94%A7;%F0%9F%93%8A+HR+Manager+%7C+Team+Leadership+%7C+Quality+Specialist+%F0%9F%93%8A" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -60,9 +60,9 @@
 ### **💻 Core Processing**
 ```yaml
 System:
-  Firmware: [STM32, ESP32, Arduino, Mbed OS]
+  Firmware: [STM32, ESP32, Arduino, PlatformIO]
   Digital_Design: [Verilog, SystemVerilog, FPGA]
-  Languages: [C, C++, Python, Assembly]
+  Languages: [C, C++, Python]
   Logic: [State Machines, RTOS, Bare Metal]
 ```
 
@@ -70,7 +70,7 @@ System:
 ```yaml
 Protocols:
   Automotive: [CAN Bus, Telemetry, OBD-II]
-  Wireless: [LoRa, Bluetooth, GPRS, MQTT]
+  Wireless: [Bluetooth, GPRS, MQTT]
   Interface: [UART, SPI, I2C, USB]
   Storage: [SD Logging, Flash Config]
 ```
@@ -91,8 +91,8 @@ Leadership:
 ```yaml
 Environment:
   Design: [KiCad, Quartus Prime, Cyclone V]
-  Analysis: [Matlab, Ansys, ModelSim]
-  Workflow: [VSCode, PlatformIO, Git, Linux]
+  Analysis: [Matlab, Ansys, ModelSim-Altera]
+  Workflow: [VSCode, Git, Linux]
   Data: [Signal Processing, Analytics]
 ```
 
@@ -103,7 +103,7 @@ Environment:
 
 <br/>
 
-<!-- Detailed Tech Stack (Padronizado com Ícones 100%) -->
+<!-- Detailed Tech Stack (Apenas tecnologias mencionadas, 100% Ícones) -->
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=9D00FF&center=true&vCenter=true&width=600&lines=%F0%9F%9B%A0%EF%B8%8F+TECHNICAL+STACK" alt="Tech Stack" />
 </div>
@@ -112,28 +112,27 @@ Environment:
 
 <div align="center">
 
-### **Embedded & Firmware**
+### **Languages & Firmware**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" title="C" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" title="C++" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" title="Python" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="45" title="Arduino" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" width="45" title="Embedded C" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" width="45" title="GCC" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arm/arm-original.svg" width="45" title="ARM" />
+<img src="https://img.icons8.com/ios-filled/50/000000/chip.png" width="45" title="STM32 / ESP32" />&nbsp;
+<img src="https://img.icons8.com/ios-filled/50/000000/processor.png" width="45" title="PlatformIO" />
 
 ### **Hardware & Digital Design**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kicad/kicad-original.svg" width="45" title="KiCad" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intel/intel-original.svg" width="45" title="Intel/Quartus" />&nbsp;
-<img src="https://img.icons8.com/ios-filled/50/000000/chip.png" width="45" title="FPGA/Verilog" />&nbsp;
-<img src="https://img.icons8.com/external-flat-icons-inorganic-studio/64/000000/external-circuit-board-computer-hardware-flat-icons-inorganic-studio.png" width="45" title="PCB Design" />
+<img src="https://img.icons8.com/ios-filled/50/000000/integrated-circuit.png" width="45" title="Verilog / SystemVerilog" />&nbsp;
+<img src="https://img.icons8.com/ios-filled/50/000000/motherboard.png" width="45" title="Quartus Prime / Cyclone V" />&nbsp;
+<img src="https://img.icons8.com/ios-filled/50/000000/circuit.png" width="45" title="ModelSim-Altera" />
 
 ### **Data, Comms & Tools**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" title="Python" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="45" title="MATLAB" />&nbsp;
+<img src="https://img.icons8.com/ios-filled/50/000000/gears.png" width="45" title="Ansys" />&nbsp;
+<img src="https://img.icons8.com/ios-filled/50/000000/bluetooth.png" width="45" title="Bluetooth" />&nbsp;
+<img src="https://img.icons8.com/ios-filled/50/000000/network-cable.png" width="45" title="CAN Bus" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" title="VSCode" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" title="Linux" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="45" title="Bash" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="45" title="Anaconda" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git" />
 
 </div>
 
@@ -159,7 +158,7 @@ Environment:
 
 <br/>
 
-<!-- GitHub Analytics & Activity (Unificado e Corrigido) -->
+<!-- GitHub Analytics & Activity (Mensal e Corrigido) -->
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=%F0%9F%93%8A+GITHUB+ANALYTICS" alt="Analytics" />
 </div>
@@ -167,14 +166,14 @@ Environment:
 <br/>
 
 <div align="center">
-  <!-- Activity Graph (Período maior e tema diferenciado) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ismael-alvaro&theme=dracula&hide_border=true&area=true&custom_title=Contribution%20Flow%20(Last%20360%20Days)" width="100%" />
+  <!-- Activity Graph (Mensal) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ismael-alvaro&theme=tokyonight&hide_border=true&area=true&custom_title=Monthly%20Contribution%20Activity" width="100%" />
   <br/><br/>
-  <!-- Stats Cards (URLs atualizadas para evitar erros de renderização) -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ismael-alvaro&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismael-alvaro&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&langs_count=8" />
+  <!-- Stats Cards (URLs simplificadas para evitar erros de renderização) -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ismael-alvaro&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismael-alvaro&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" />
   <br/>
-  <img width="60%" src="https://streak-stats.demolab.com?user=ismael-alvaro&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ismael-alvaro&theme=tokyonight&hide_border=true" />
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=ismael-alvaro&theme=tokyonight&no-bg=true&no-frame=true&column=7" />
 </div>
