@@ -5,9 +5,9 @@
 
 <br/>
 
-<!-- Matrix Style Typing Effect -->
+<!-- Matrix Style Typing Effect (Reestruturado para 3 linhas de impacto) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=00FFF7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=120&lines=%E2%9A%A1+Embedded+Systems+Specialist+%7C+C%2FC%2B%2B+%7C+Python+%E2%9A%A1;%F0%9F%94%A7+FPGA+%7C+Verilog+%7C+SystemVerilog+%7C+Digital+Design+%F0%9F%94%A7;%F0%9F%93%A1+Telemetry+%7C+CAN+%7C+LoRa+%7C+Bluetooth+%7C+MQTT+%F0%9F%93%A1;%F0%9F%93%8A+HR+Manager+%7C+Team+Leadership+%7C+Org+Planning+%F0%9F%93%8A;%F0%9F%8E%AF+Quality+Specialist+%7C+Automotive+Systems+%7C+Mangue+Baja+%F0%9F%8E%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=00FFF7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=100&lines=%E2%9A%A1+Embedded+Systems+Specialist+%7C+C%2FC%2B%2B+%7C+Python+%E2%9A%A1;%F0%9F%94%A7+FPGA+%7C+Verilog+%7C+SystemVerilog+%7C+Digital+Design+%F0%9F%94%A7;%F0%9F%93%8A+HR+Manager+%7C+Team+Leadership+%7C+Quality+Specialist+%F0%9F%93%8A" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -15,13 +15,13 @@
 <!-- Social & GitHub Badges -->
 <p align="center">
     <a href="https://www.linkedin.com/in/ismael-alvaro/">
-        <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://github.com/ismael-alvaro?tab=followers">
-        <img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/ismael-alvaro?color=236ad3&labelColor=000000&style=for-the-badge&logo=github&label=FOLLOWERS" />
+        <img alt="Followers" src="https://img.shields.io/github/followers/ismael-alvaro?color=236ad3&style=for-the-badge&logo=github&label=FOLLOWERS" />
     </a>
     <a href="https://github.com/ismael-alvaro?tab=repositories">
-        <img alt="Public Repos" src="https://img.shields.io/badge/REPOS-DYNAMIC-00FF00?style=for-the-badge&labelColor=000000&logo=git&label=REPOS" />
+        <img alt="Public Repos" src="https://img.shields.io/badge/REPOS-DYNAMIC-00FF00?style=for-the-badge&logo=git&label=REPOS" />
     </a>
 </p>
 
@@ -45,9 +45,9 @@
 
 <br/>
 
-<!-- System Architecture (Profile Overview) -->
+<!-- Core Engine & Logic (Antigo System Architecture) -->
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=FF0080&center=true&vCenter=true&width=600&lines=%F0%9F%9B%A1%EF%B8%8F+SYSTEM+ARCHITECTURE" alt="System Architecture" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=FF0080&center=true&vCenter=true&width=600&lines=%E2%9A%99%EF%B8%8F+CORE+ENGINE+%26+LOGIC" alt="Core Engine" />
 </div>
 
 <br/>
@@ -101,7 +101,7 @@ Environment:
 
 <br/>
 
-<!-- Detailed Tech Stack -->
+<!-- Detailed Tech Stack (Padronizado com Ícones) -->
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=9D00FF&center=true&vCenter=true&width=600&lines=%F0%9F%9B%A0%EF%B8%8F+TECHNICAL+STACK" alt="Tech Stack" />
 </div>
@@ -114,31 +114,28 @@ Environment:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" title="C" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" title="C++" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="45" title="Arduino" />&nbsp;
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" height="35" />&nbsp;
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="35" />&nbsp;
-<img src="https://img.shields.io/badge/Mbed_OS-000000?style=for-the-badge&logo=arm&logoColor=white" height="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" width="45" title="Embedded C" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" width="45" title="GCC" />
 
 ### **Hardware & Digital Design**
-<img src="https://img.shields.io/badge/Verilog-F1F1F1?style=for-the-badge&logo=verilog&logoColor=black" height="35" />&nbsp;
-<img src="https://img.shields.io/badge/SystemVerilog-4B0082?style=for-the-badge&logo=intel&logoColor=white" height="35" />&nbsp;
-<img src="https://img.shields.io/badge/FPGA-Cyclone_V-0071C5?style=for-the-badge&logo=intel&logoColor=white" height="35" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kicad/kicad-original.svg" width="45" title="KiCad" />&nbsp;
-<img src="https://img.shields.io/badge/Quartus_Prime-0071C5?style=for-the-badge&logo=intel&logoColor=white" height="35" />
+<img src="https://img.shields.io/badge/Verilog-F1F1F1?style=flat-square&logo=verilog&logoColor=black" height="35" />&nbsp;
+<img src="https://img.shields.io/badge/FPGA-Cyclone_V-0071C5?style=flat-square&logo=intel&logoColor=white" height="35" />&nbsp;
+<img src="https://img.shields.io/badge/Quartus-Prime-0071C5?style=flat-square&logo=intel&logoColor=white" height="35" />
 
 ### **Data, Comms & Tools**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" title="Python" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="45" title="MATLAB" />&nbsp;
-<img src="https://img.shields.io/badge/CAN_Bus-FF3300?style=for-the-badge&logo=databricks&logoColor=white" height="35" />&nbsp;
-<img src="https://img.shields.io/badge/LoRa-00EEFF?style=for-the-badge&logo=semtech&logoColor=black" height="35" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" title="VSCode" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" title="Linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" title="Linux" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="45" title="Bash" />
 
 </div>
 
 <br/>
 
-<!-- Featured Projects -->
+<!-- Featured Projects (Novos Projetos Selecionados) -->
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+FEATURED+PROJECTS" alt="Projects" />
 </div>
@@ -151,14 +148,27 @@ Environment:
 | :--- | :--- | :--- |
 | **[Risc-V-Pipeline](https://github.com/ismael-alvaro/Risc-V-Pipeline)** | Pipelined RISC-V CPU core with Python automation. | `SystemVerilog` `Python` |
 | **[ALU](https://github.com/ismael-alvaro/ALU)** | FPGA-based ALU for Cyclone V with 7-segment output. | `Quartus Prime` `Verilog` |
-| **[mbed-os-config](https://github.com/ismael-alvaro/mbed-os-stm32f103x8-flash-config)** | Optimized STM32 flash & peripheral configuration. | `C` `mbed-os` `STM32` |
-| **[RoboTrilha](https://github.com/ismael-alvaro/RoboTrilha)** | Autonomous line-following robot control logic. | `C++` `Arduino` |
+| **[PintOS-DevBase](https://github.com/ismael-alvaro/PintOS-DevBase)** | Optimized base for PintOS with improved build & debug workflows. | `C` `Makefile` `GDB` |
+| **[Verilog-CPU](https://github.com/ismael-alvaro/Verilog-CPU)** | Custom processor design with core components and datapath logic. | `Verilog` `Simulation` |
 
 </div>
 
 <br/>
 
-<!-- GitHub Analytics -->
+<!-- Novo Elemento: Development Activity -->
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%F0%9F%93%88+DEVELOPMENT+ACTIVITY" alt="Activity" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ismael-alvaro&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</div>
+
+<br/>
+
+<!-- GitHub Analytics (Corrigido e Sincronizado) -->
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=%F0%9F%93%8A+GITHUB+ANALYTICS" alt="Analytics" />
 </div>
@@ -166,19 +176,19 @@ Environment:
 <br/>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ismael-alvaro&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&custom_title=System%20Performance" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ismael-alvaro&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" />
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismael-alvaro&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&langs_count=8" />
   <br/>
-  <img width="60%" src="https://streak-stats.demolab.com?user=ismael-alvaro&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ismael-alvaro&theme=tokyonight&hide_border=true" />
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=ismael-alvaro&theme=tokyonight&no-bg=true&no-frame=true&column=7" />
 </div>
 
 <br/>
 
-<!-- Footer -->
+<!-- Footer (Sincronizado com o Header) -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <p><i>"The best way to predict the future is to invent it."</i></p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6,11&height=120&section=footer&animation=twinkling" width="100%" />
 </div>
