@@ -135,7 +135,7 @@ Environment:
 <img src="https://img.shields.io/badge/Telemetry-00838F?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" />
 <img src="https://img.shields.io/badge/GPRS-546E7A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
 <img src="https://img.shields.io/badge/UART-5E35B1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SPI-3949AB?style=for-the-badge" />
 <img src="https://img.shields.io/badge/I2C-1E88E5?style=for-the-badge" />
@@ -143,7 +143,7 @@ Environment:
 ### **Simulation & Analysis**
 <img src="https://img.shields.io/badge/ModelSim--Altera-5D4037?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Ansys-FFB300?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ansys-FFB300?style=for-the-badge&logo=ansys&logoColor=white" />
 
 </div>
 
