@@ -62,7 +62,7 @@
 System:
   Firmware: [STM32, ESP32, Arduino, PlatformIO]
   Digital_Design: [Verilog, SystemVerilog, FPGA]
-  Languages: [C, C++, Python]
+  Languages: [C, C++, Python, Assembly (x86, RISC-V)]
   Logic: [State Machines, Event-Driven Design, Interrupt Handling]
 ```
 
@@ -90,7 +90,7 @@ Leadership:
 ### **🛠️ Hardware & Tools**
 ```yaml
 Environment:
-  Design: [KiCad, Quartus Prime, Cyclone V]
+  Design: [KiCad, Quartus Prime]
   Analysis: [Matlab, Ansys, ModelSim-Altera]
   Workflow: [VSCode, Git, Linux]
   Data: [Signal Processing, Analytics]
@@ -116,20 +116,19 @@ Environment:
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/x86%20Assembly-6D4C41?style=for-the-badge&logo=intel&logoColor=white" />
+<img src="https://img.shields.io/badge/RISC--V%20Assembly-6D4C41?style=for-the-badge&logo=riscv&logoColor=white" />
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
 <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white" />
-<img src="https://img.shields.io/badge/State%20Machines-00897B?style=for-the-badge" />
 
 ### **Digital Design & Hardware**
 <img src="https://img.shields.io/badge/Verilog-8E24AA?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SystemVerilog-C2185B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/FPGA-3949AB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white" />
 <img src="https://img.shields.io/badge/Quartus%20Prime-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-<img src="https://img.shields.io/badge/Cyclone%20V-283593?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ModelSim--Altera-5D4037?style=for-the-badge" />
+<img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white" />
 
 ### **Communication, Automotive & IoT**
 <img src="https://img.shields.io/badge/CAN%20Bus-006064?style=for-the-badge" />
@@ -140,18 +139,11 @@ Environment:
 <img src="https://img.shields.io/badge/UART-5E35B1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SPI-3949AB?style=for-the-badge" />
 <img src="https://img.shields.io/badge/I2C-1E88E5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/USB-546E7A?style=for-the-badge&logo=usb&logoColor=white" />
-<img src="https://img.shields.io/badge/SD%20Logging-2E7D32?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Flash%20Config-6D4C41?style=for-the-badge" />
 
-### **Analysis, Workflow & Tooling**
+### **Simulation & Analysis**
+<img src="https://img.shields.io/badge/ModelSim--Altera-5D4037?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Ansys-FFB300?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Signal%20Processing-7B1FA2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Analytics-00897B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 </div>
 
