@@ -154,6 +154,8 @@ Environment:
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+FEATURED+PROJECTS" alt="Projects" />
 </div>
 
+<br/>
+
 <div align="center">
 
 | Project | Description | Tech Stack |
