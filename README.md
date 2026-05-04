@@ -154,16 +154,14 @@ Environment:
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+FEATURED+PROJECTS" alt="Projects" />
 </div>
 
-<br/>
-
 <div align="center">
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Risc-V-Pipeline](https://github.com/ismael-alvaro/Risc-V-Pipeline)** | Pipelined RISC-V CPU core with Python automation. | `SystemVerilog` `Python` |
-| **[ALU](https://github.com/ismael-alvaro/ALU)** | FPGA-based ALU for Cyclone V with 7-segment output. | `Quartus Prime` `Verilog` |
-| **[PintOS-DevBase](https://github.com/ismael-alvaro/PintOS-DevBase)** | Optimized base for PintOS with improved build & debug workflows. | `C` `Makefile` `GDB` |
-| **[Verilog-CPU](https://github.com/ismael-alvaro/Verilog-CPU)** | Custom processor design with core components and datapath logic. | `Verilog` `Simulation` |
+| **[NexoECU](https://github.com/ismael-alvaro/NexoECU )** | Dual-ECU firmware with CAN, LoRa, and MQTT telemetry. | `C++` `ESP32` `CAN Bus` |
+| **[Risc-V-Pipeline](https://github.com/ismael-alvaro/Risc-V-Pipeline )** | Pipelined RISC-V CPU core with Python automation. | `SystemVerilog` `Python` |
+| **[Mangue-Logger-v2](https://github.com/ismael-alvaro/Mangue-Logger-v2 )** | Desktop app for vehicle dynamics analysis and interactive plotting. | `Python` `Data Analysis` |
+| **[PintOS-DevBase](https://github.com/ismael-alvaro/PintOS-DevBase )** | Optimized base for PintOS kernel development and debugging. | `C` `Makefile` `GDB` |
 
 </div>
 
